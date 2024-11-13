@@ -111,7 +111,7 @@ L'**interface utilisateur** affiche une liste d'événements , avec des options 
 
 
 ## Vidéo démonstrative
-[Télécharger la vidéo de démonstration](./demo.mp4)
+[Télécharger la vidéo de démonstration](./démo.mp4)
 
 ## Contact
 Pour toute question, veuillez nous contacter à :
