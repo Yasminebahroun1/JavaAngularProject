@@ -4,7 +4,7 @@
   <img src="./logo.png" alt="Logo de Eventica" width="100"/>
 </p>
 
-# Eventica
+# Eventica 
 
 ## Description du Projet
 
