@@ -1,7 +1,7 @@
 # JavaAngularProject
 
-<p align="left"> 
-  <img src="./logo.png" alt="Logo de Eventica" width="100"/>
+<p align="center"> 
+  <img src="./logo.png" alt="Logo de Eventica" width="200"/>
 </p>
 
 # Eventica 
